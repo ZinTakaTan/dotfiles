@@ -1,0 +1,7 @@
+[user]
+	name = JIN Takano
+	mail = j.t.nosmoking@gmail.com
+[core]
+	editor = vim
+[push]
+	default = simple
