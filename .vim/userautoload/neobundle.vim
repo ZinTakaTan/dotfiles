@@ -22,7 +22,6 @@ NeoBundleFetch 'Shougo/neobundle.vim'
 "###### My Bundles here:
 "NOTE: Don't set neobundle setting in .gvimrc!
 NeoBundle 'lervag/vimtex'
-NeoBundle 'deton/imactivatemap.vim'
 
 call neobundle#end()
 
